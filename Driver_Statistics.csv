@@ -1,0 +1,913 @@
+Driver,Total Races,Wins,Podiums,Top 10 Finishes,Average Finish,Win Percentage
+Michael Schumacher MSC,297,90,153,222,6.67003367003367,30.303030303030305
+Lewis Hamilton HAM,254,89,156,222,4.751968503937008,35.039370078740156
+Sebastian Vettel VET,244,53,118,196,6.151639344262295,21.721311475409834
+Alain Prost PRO,193,51,106,136,7.025906735751295,26.42487046632124
+Ayrton Senna SEN,153,41,79,104,7.771241830065359,26.797385620915033
+Fernando Alonso ALO,310,32,96,206,8.245161290322581,10.32258064516129
+Nigel Mansell MAN,181,31,59,90,10.574585635359115,17.12707182320442
+Jackie Stewart STE,98,27,42,63,7.357142857142857,27.55102040816326
+Niki Lauda LAU,168,25,54,84,10.607142857142858,14.880952380952381
+Jim Clark CLA,73,25,32,49,7.287671232876712,34.24657534246575
+Juan Manuel Fangio FAN,56,23,35,45,4.803571428571429,41.07142857142857
+Nico Rosberg ROS,202,23,57,141,8.247524752475247,11.386138613861387
+Nelson Piquet PIQ,225,23,60,123,10.071111111111112,10.222222222222223
+Damon Hill HIL,114,22,42,70,8.81578947368421,19.298245614035086
+Kimi RÃ¤ikkÃ¶nen RAI,319,21,102,224,8.084639498432601,6.583072100313479
+Mika Hakkinen HAK,158,20,51,96,9.405063291139241,12.658227848101266
+Stirling Moss MOS,69,15,22,36,9.333333333333334,21.73913043478261
+Jenson Button BUT,302,15,48,177,9.668874172185431,4.966887417218543
+Jack Brabham BRA,126,15,32,73,9.015873015873016,11.904761904761903
+Graham Hill HIL,173,14,37,93,9.942196531791907,8.092485549132949
+Emerson Fittipaldi FIT,142,14,35,76,10.464788732394366,9.859154929577464
+Alberto Ascari ASC,33,13,17,23,7.7272727272727275,39.39393939393939
+David Coulthard COU,245,13,62,147,9.440816326530612,5.3061224489795915
+Carlos Reutemann REU,144,12,44,85,9.979166666666666,8.333333333333332
+Mario Andretti AND,124,12,18,53,12.596774193548388,9.67741935483871
+Jacques Villeneuve VIL,163,11,23,87,10.257668711656441,6.748466257668712
+Rubens Barrichello BAR,316,11,67,170,10.08860759493671,3.481012658227848
+Felipe Massa MAS,265,11,40,184,8.924528301886792,4.150943396226415
+Alan Jones JON,115,11,23,53,11.408695652173913,9.565217391304348
+Ronnie Peterson PET,123,10,26,61,11.390243902439025,8.130081300813007
+Jody Scheckter SCH,110,10,33,69,9.163636363636364,9.090909090909092
+Gerhard Berger BER,203,10,48,114,10.556650246305418,4.926108374384237
+James Hunt HUN,91,10,23,45,11.395604395604396,10.989010989010989
+Max Verstappen VER,109,9,37,82,7.4495412844036695,8.256880733944955
+Mark Webber WEB,214,9,42,131,9.766355140186915,4.205607476635514
+Jacky Ickx ICK,114,8,25,58,10.780701754385966,7.017543859649122
+Valtteri Bottas BOT,146,8,51,109,6.97945205479452,5.47945205479452
+Denny Hulme HUL,110,8,32,73,8.372727272727273,7.2727272727272725
+Juan Pablo Montoya MOY,92,7,30,58,8.271739130434783,7.608695652173914
+Rene Arnoux ARN,146,7,22,67,12.294520547945206,4.794520547945205
+Daniel Ricciardo RIC,175,7,30,103,9.674285714285714,4.0
+Tony Brooks BRO,40,6,10,20,10.975,15.0
+Riccardo Patrese PAT,248,6,34,107,12.568548387096774,2.4193548387096775
+John Surtees SUR,108,6,24,57,10.222222222222221,5.555555555555555
+Jacques Laffite LAF,171,6,32,79,11.842105263157896,3.508771929824561
+Ralf Schumacher RSC,178,6,26,106,9.825842696629213,3.3707865168539324
+Gilles Villeneuve VIL,65,6,14,37,10.446153846153846,9.230769230769232
+Jochen Rindt RIN,58,6,13,27,9.60344827586207,10.344827586206897
+Clay Regazzoni REG,132,5,28,72,10.666666666666666,3.787878787878788
+Nino Farina FAR,34,5,18,27,5.588235294117647,14.705882352941178
+Keke Rosberg ROS,111,5,15,50,12.117117117117116,4.504504504504505
+John Watson WAT,148,5,19,76,11.452702702702704,3.3783783783783785
+Dan Gurney GUR,86,4,19,45,9.63953488372093,4.651162790697675
+Michele Alboreto ALB,186,4,22,75,12.666666666666666,2.1505376344086025
+Eddie Irvine IRV,145,4,26,76,10.83448275862069,2.7586206896551726
+Mike Hawthorn HAW,47,3,16,34,7.25531914893617,6.382978723404255
+Phil Hill HIL,47,3,16,30,8.212765957446809,6.382978723404255
+Peter Collins COL,36,3,9,17,11.083333333333334,8.333333333333332
+Thierry Boutsen BOU,156,3,15,80,11.487179487179487,1.9230769230769231
+Giancarlo Fisichella FIS,228,3,19,116,10.907894736842104,1.3157894736842104
+Didier Pironi PIR,68,3,12,42,10.779411764705882,4.411764705882353
+Johnny Herbert HER,155,3,7,70,12.425806451612903,1.935483870967742
+Heinz-Harald Frentzen FRE,155,3,18,82,10.929032258064517,1.935483870967742
+Bruce McLaren MCL,97,3,25,60,8.56701030927835,3.0927835051546393
+Patrick Depailler DEP,94,2,19,48,11.138297872340425,2.127659574468085
+Jean-Pierre Jabouille JAB,49,2,2,7,16.26530612244898,4.081632653061225
+Charles Leclerc LEC,49,2,12,31,9.26530612244898,4.081632653061225
+Maurice Trintignant TRI,81,2,6,39,11.604938271604938,2.4691358024691357
+Bill Vukovich VUK,5,2,2,2,15.2,40.0
+Pedro Rodriguez ROD,53,2,7,32,9.169811320754716,3.7735849056603774
+Patrick Tambay TAM,110,2,11,52,12.118181818181819,1.8181818181818181
+Wolfgang von Trips VON,26,2,6,21,8.038461538461538,7.6923076923076925
+Jose Froilan Gonzalez GON,28,2,13,19,8.142857142857142,7.142857142857142
+Elio de Angelis DEA,102,2,9,55,11.303921568627452,1.9607843137254901
+Peter Revson REV,30,2,8,18,9.866666666666667,6.666666666666667
+Jo Siffert SIF,95,2,6,52,10.410526315789474,2.1052631578947367
+Pastor Maldonado MAL,93,1,1,13,14.989247311827956,1.0752688172043012
+Piero Taruffi TAR,18,1,5,11,8.222222222222221,5.555555555555555
+Richie Ginther GIN,52,1,14,38,7.403846153846154,1.9230769230769231
+Vittorio Brambilla BRA,74,1,1,25,14.58108108108108,1.3513513513513513
+Sam Hanks HAN,8,1,4,4,11.25,12.5
+Alessandro Nannini NAN,75,1,9,25,14.56,1.3333333333333335
+Ludovico Scarfiotti SCA,10,1,1,6,9.7,10.0
+Alan Jones,1,1,1,1,1.0,100.0
+Heikki Kovalainen KOV,108,1,4,35,13.222222222222221,0.9259259259259258
+Johnnie Parsons PAR,8,1,1,3,12.75,12.5
+Lorenzo Bandini BAN,42,1,8,27,9.285714285714286,2.380952380952381
+Francois Cevert CEV,47,1,13,28,9.702127659574469,2.127659574468085
+Olivier Panis PAN,155,1,5,65,11.72258064516129,0.6451612903225806
+Innes Ireland IRE,49,1,4,25,11.387755102040817,2.0408163265306123
+Bob Sweikert SWE,5,1,1,2,17.0,20.0
+Jim Rathmann RAT,10,1,4,6,11.3,10.0
+Jimmy Bryan BRY,9,1,3,4,14.333333333333334,11.11111111111111
+Robert Kubica KUB,95,1,12,53,10.473684210526315,1.0526315789473684
+Jo Bonnier BON,103,1,1,48,11.83495145631068,0.9708737864077669
+Jochen Mass MAS,105,1,8,48,12.619047619047619,0.9523809523809524
+Jean-Pierre Beltoise BEL,84,1,8,45,11.452380952380953,1.1904761904761905
+Giancarlo Baghetti BAG,21,1,1,10,13.047619047619047,4.761904761904762
+Luigi Musso MUS,24,1,7,15,9.125,4.166666666666666
+Carlos Pace PAC,72,1,6,31,13.083333333333334,1.3888888888888888
+Troy Ruttman RUT,8,1,1,3,17.25,12.5
+Gunnar Nilsson NIL,31,1,4,11,13.806451612903226,3.225806451612903
+Pat Flaherty FLA,5,1,1,1,15.2,20.0
+Peter Gethin GET,30,1,1,9,15.433333333333334,3.3333333333333335
+Jean Alesi ALE,196,1,31,106,11.107142857142858,0.5102040816326531
+Lee Wallard WAL,2,1,1,2,4.0,50.0
+Jarno Trulli TRU,252,1,11,107,12.277777777777779,0.3968253968253968
+Rodger Ward WAR,12,1,2,4,18.333333333333332,8.333333333333332
+Michael Schumacher,6,0,1,3,12.833333333333334,0.0
+Michel Leclere LEC,7,0,0,1,14.0,0.0
+Michael Andretti,1,0,0,0,23.0,0.0
+Michael May MAY,2,0,0,0,12.5,0.0
+Michael Bleekemolen BLE,1,0,0,0,18.0,0.0
+Michael Andretti AND,10,0,1,5,13.0,0.0
+Max de Terra DET,2,0,0,1,16.0,0.0
+Max Chilton CHI,35,0,0,0,17.714285714285715,0.0
+Mauro Baldi,1,0,0,0,19.0,0.0
+Mauro Baldi BAL,34,0,0,13,14.735294117647058,0.0
+Mauricio Gugelmin,2,0,0,1,10.5,0.0
+Mauricio Gugelmin GUG,69,0,1,21,14.72463768115942,0.0
+Mauri Rose ROS,2,0,1,1,9.0,0.0
+Masten Gregory,1,0,0,0,13.0,0.0
+Masten Gregory GRE,38,0,3,15,11.631578947368421,0.0
+Massimo Natili NAT,1,0,0,0,31.0,0.0
+Max Jean JEA,1,0,0,0,14.0,0.0
+Nelson Piquet,3,0,2,3,3.0,0.0
+Neville Lederle LED,1,0,0,1,6.0,0.0
+Nicholas Latifi LAT,7,0,0,0,16.428571428571427,0.0
+Nick Heidfeld HEI,182,0,13,99,10.686813186813186,0.0
+Nico Hulkenberg HUL,178,0,0,97,11.584269662921349,0.0
+Nicola Larini LAR,46,0,1,12,15.26086956521739,0.0
+Nicolas Kiesa KIE,5,0,0,0,12.8,0.0
+Nicola Larini,1,0,0,0,25.0,0.0
+Nico Hulkenberg,3,0,0,0,12.333333333333334,0.0
+Mike Parkes PAR,6,0,2,3,10.0,0.0
+Nigel Mansell,3,0,0,0,15.666666666666666,0.0
+Niki Lauda,1,0,1,1,2.0,0.0
+Nino Vaccarella VAC,4,0,0,1,13.25,0.0
+Norberto Fontana FON,4,0,0,2,12.0,0.0
+Noritake Takahara TAK,2,0,0,1,15.5,0.0
+Olivier Beretta BER,10,0,0,3,16.6,0.0
+Olivier Gendebien GEN,14,0,1,9,9.142857142857142,0.0
+Olivier Grouillard GRO,37,0,0,6,16.27027027027027,0.0
+Olivier Gendebien,1,0,0,1,8.0,0.0
+Nico Rosberg,4,0,0,3,9.25,0.0
+Michele Alboreto,4,0,0,2,13.75,0.0
+Miguel Angel Guerra GUE,1,0,0,0,24.0,0.0
+Mika Salo SAL,107,0,2,48,11.91588785046729,0.0
+Mike Beuttler BEU,28,0,0,6,15.321428571428571,0.0
+Mike Fisher FIS,2,0,0,0,15.0,0.0
+Mike Hailwood HAI,50,0,2,22,13.16,0.0
+Mike Harris HAR,1,0,0,0,15.0,0.0
+Mike MacDowel MAC,1,0,0,1,7.0,0.0
+Mike Magill MAG,3,0,0,0,23.666666666666668,0.0
+Nello Pagani PAG,1,0,0,1,7.0,0.0
+Mike Sparken SPA,1,0,0,1,8.0,0.0
+Mike Spence SPE,37,0,1,20,10.054054054054054,0.0
+Mike Taylor TAY,1,0,0,0,23.0,0.0
+Mike Thackwell THA,3,0,0,0,24.0,0.0
+Mike Wilds WIL,3,0,0,0,17.333333333333332,0.0
+Moises Solana SOL,8,0,0,2,14.0,0.0
+Myron Fohr FOH,1,0,0,0,12.0,0.0
+Nanni Galli GAL,17,0,0,1,17.352941176470587,0.0
+Narain Karthikeyan KAR,44,0,0,1,18.136363636363637,0.0
+Narain Karthikeyan,2,0,0,0,22.0,0.0
+Mike Nazaruk NAZ,3,0,1,2,13.333333333333334,0.0
+Kamui Kobayashi,4,0,0,1,15.0,0.0
+Karl Kling KLI,11,0,2,7,8.181818181818182,0.0
+Karl Wendlinger WEN,36,0,0,11,13.583333333333334,0.0
+Karl Wendlinger,2,0,0,1,10.5,0.0
+Karun Chandhok CHD,10,0,0,0,17.6,0.0
+Karun Chandhok,1,0,0,0,24.0,0.0
+Kazuki Nakajima NAK,36,0,0,9,13.11111111111111,0.0
+Kazuyoshi Hoshino HOS,2,0,0,0,15.0,0.0
+Keith Andrews AND,2,0,0,0,24.5,0.0
+Keith Greene GRE,3,0,0,0,19.666666666666668,0.0
+Keke Rosberg,2,0,1,1,9.0,0.0
+Mack Hellings HEL,2,0,0,0,23.0,0.0
+Ken Wharton WHA,15,0,0,8,12.266666666666667,0.0
+Kenneth McAlpine MCA,7,0,0,0,18.714285714285715,0.0
+Kenny Acheson ACH,3,0,0,0,17.666666666666668,0.0
+Kevin Magnussen MAG,110,0,1,36,12.809090909090909,0.0
+Kimi Räikkönen,2,0,1,2,3.5,0.0
+Kunimitsu Takahashi TAK,1,0,0,1,9.0,0.0
+Kurt Adolff ADO,1,0,0,0,28.0,0.0
+Kurt Ahrens AHR,4,0,0,1,16.0,0.0
+Lamberto Leoni LEO,3,0,0,0,24.666666666666668,0.0
+Lance Macklin MAC,13,0,0,3,16.0,0.0
+Lance Reventlow REV,1,0,0,0,17.0,0.0
+Lance Stroll STR,69,0,1,20,12.72463768115942,0.0
+Ken Downing DOW,2,0,0,1,11.5,0.0
+Johnny Thomson THO,7,0,1,3,15.714285714285714,0.0
+Johnny Cecotto,1,0,0,0,12.0,0.0
+Johnny Herbert,2,0,0,1,18.0,0.0
+Johnny Servoz-Gavin,1,0,0,1,5.0,0.0
+John Love,1,0,0,1,8.0,0.0
+John Miles,1,0,0,1,5.0,0.0
+John Surtees,3,0,0,2,10.0,0.0
+John Watson,3,0,0,0,19.333333333333332,0.0
+Joie Chitwood CHI,1,0,0,1,5.0,0.0
+Jolyon Palmer PAL,37,0,0,2,15.27027027027027,0.0
+Jonathan Palmer PAL,83,0,0,30,14.301204819277109,0.0
+Kamui Kobayashi KOB,72,0,1,28,13.75,0.0
+Jorge Daponte DAP,2,0,0,0,13.0,0.0
+Jos Verstappen VER,106,0,2,25,14.150943396226415,0.0
+Jose Dolhem DOL,1,0,0,0,21.0,0.0
+Josef Peters PET,1,0,0,0,27.0,0.0
+Jo Bonnier,1,0,0,0,15.0,0.0
+Jo Siffert,1,0,0,1,10.0,0.0
+Jud Larson LAR,2,0,0,1,18.5,0.0
+Jules Bianchi BIA,34,0,0,1,17.147058823529413,0.0
+Julian Bailey BAI,6,0,0,2,12.833333333333334,0.0
+Justin Wilson WIL,16,0,0,1,14.5625,0.0
+Jyrki Jarvilehto JAR,58,0,1,21,13.53448275862069,0.0
+Jyrki Jarvilehto,2,0,0,0,15.5,0.0
+Jonathan Williams WIL,1,0,0,1,8.0,0.0
+Olivier Grouillard,2,0,0,1,14.0,0.0
+Manfred Winkelhock WIN,44,0,0,10,16.022727272727273,0.0
+Manfred Winkelhock,1,0,0,0,14.0,0.0
+Manny Ayulo AYU,4,0,1,1,15.5,0.0
+Marc Gene GEN,35,0,0,10,13.685714285714285,0.0
+Marc Surer SUR,75,0,0,37,11.866666666666667,0.0
+Marcel Balsa BAL,1,0,0,0,16.0,0.0
+Marcus Ericsson ERI,97,0,0,10,15.0,0.0
+Marc Surer,3,0,0,2,9.666666666666666,0.0
+Maria Teresa de Filippis DEF,3,0,0,2,11.333333333333334,0.0
+Mario de Araujo Cabral DEA,4,0,0,2,12.25,0.0
+Lando Norris NOR,28,0,1,17,10.428571428571429,0.0
+Mario de Araujo Cabral,1,0,0,1,9.0,0.0
+Mark Blundell BLU,59,0,3,24,12.898305084745763,0.0
+Mark Donohue DON,14,0,1,7,12.5,0.0
+Markus Winkelhock WIN,1,0,0,0,17.0,0.0
+Mark Blundell,1,0,1,1,3.0,0.0
+Mark Webber,2,0,0,2,8.0,0.0
+Marshall Teague TEA,3,0,0,1,19.333333333333332,0.0
+Martin Brundle BRU,148,0,9,72,11.682432432432432,0.0
+Martin Donnelly DON,13,0,0,3,15.153846153846153,0.0
+Martin Brundle,2,0,0,2,6.0,0.0
+Masahiro Hasemi HAS,1,0,0,0,11.0,0.0
+Massimiliano Papis PAP,6,0,0,1,16.166666666666668,0.0
+Mario Andretti,3,0,1,2,7.666666666666667,0.0
+Larry Crockett CRO,1,0,0,0,11.0,0.0
+Larry Perkins PER,11,0,0,1,17.818181818181817,0.0
+Lella Lombardi LOM,12,0,0,2,16.083333333333332,0.0
+Len Sutton SUT,3,0,0,0,31.333333333333332,0.0
+Leo Kinnunen KIN,1,0,0,0,21.0,0.0
+Les Leston LES,2,0,0,0,22.5,0.0
+Leslie Johnson JOH,1,0,0,0,23.0,0.0
+Leslie Marr MAR,2,0,0,0,17.5,0.0
+Leslie Thorne THO,1,0,0,0,15.0,0.0
+Lewis Hamilton,3,0,1,2,11.0,0.0
+Lloyd Ruby RUB,2,0,0,1,10.5,0.0
+Loris Kessel KES,3,0,0,0,16.333333333333332,0.0
+Luki Botha BOT,1,0,0,1,8.0,0.0
+Louis Rosier ROS,38,0,2,24,11.5,0.0
+Luca Badoer BAD,50,0,0,14,13.96,0.0
+Lucas di Grassi DIG,18,0,0,0,19.11111111111111,0.0
+Lucas di Grassi,1,0,0,0,23.0,0.0
+Luca Badoer,1,0,0,0,24.0,0.0
+Luciano Burti BUR,14,0,0,4,13.0,0.0
+Lucien Bianchi BIA,17,0,1,6,13.117647058823529,0.0
+Luigi Fagioli FAG,7,0,5,6,3.5714285714285716,0.0
+Luigi Piotti PIO,5,0,0,1,13.4,0.0
+Luigi Villoresi VIL,31,0,6,19,9.387096774193548,0.0
+Luis Perez-Sala PER,23,0,0,5,13.478260869565217,0.0
+Luiz Bueno BUE,1,0,0,0,12.0,0.0
+Louis Chiron CHI,15,0,1,6,13.4,0.0
+Shinji Nakano NAK,33,0,0,9,13.545454545454545,0.0
+Shorty Templeman TEM,3,0,0,0,18.666666666666668,0.0
+Siegfried Stohr STO,9,0,0,2,16.77777777777778,0.0
+Silvio Moser MOS,12,0,0,3,12.666666666666666,0.0
+Skip Barber BAR,5,0,0,0,17.8,0.0
+Slim Borgudd BOR,10,0,0,3,13.1,0.0
+Spider Webb WEB,3,0,0,0,23.666666666666668,0.0
+Stefan Bellof BEL,9,0,0,4,10.666666666666666,0.0
+Stefan Johansson JOH,77,0,12,38,11.987012987012987,0.0
+Stefano Modena MOD,66,0,2,12,15.151515151515152,0.0
+Stefano Modena,2,0,0,1,12.5,0.0
+Stefan Johansson,1,0,0,0,27.0,0.0
+Patrick Tambay,2,0,0,2,5.0,0.0
+Stirling Moss,1,0,0,1,5.0,0.0
+Stoffel Vandoorne VAN,42,0,0,8,13.285714285714286,0.0
+Stuart Lewis-Evans LEW,14,0,2,7,10.428571428571429,0.0
+Taki Inoue INO,18,0,0,2,17.77777777777778,0.0
+Takuma Sato SAT,88,0,1,23,13.193181818181818,0.0
+Tarso Marques MAR,23,0,0,3,15.217391304347826,0.0
+Teddy Pilette PIL,1,0,0,0,17.0,0.0
+Teo Fabi FAB,64,0,2,17,14.921875,0.0
+Theo Fitzau FIT,1,0,0,0,27.0,0.0
+Theo Helfrich HEL,3,0,0,0,17.666666666666668,0.0
+Thierry Boutsen,3,0,1,1,11.666666666666666,0.0
+Tiago Monteiro MON,36,0,1,5,14.222222222222221,0.0
+Tiff Needell NEE,2,0,0,0,23.0,0.0
+Stephane Sarrazin SAR,1,0,0,0,16.0,0.0
+Roland Ratzenberger RAT,1,0,0,0,11.0,0.0
+Rolf Stommelen STO,53,0,1,17,12.90566037735849,0.0
+Rolf Stommelen,1,0,0,1,8.0,0.0
+Romain Grosjean GRO,171,0,9,57,13.116959064327485,0.0
+Romain Grosjean,2,0,1,2,4.5,0.0
+Ron Flockhart FLO,13,0,0,5,13.923076923076923,0.0
+Ronnie Bucknum BUC,11,0,0,3,13.363636363636363,0.0
+Roy Salvadori SAL,47,0,2,20,12.957446808510639,0.0
+Rubens Barrichello,3,0,0,1,14.0,0.0
+Rudi Fischer FIS,7,0,2,3,9.857142857142858,0.0
+Rudolf Krause KRA,2,0,0,0,17.5,0.0
+Rudolf Schoeller SCH,1,0,0,0,21.0,0.0
+Sergio Perez,3,0,0,0,16.333333333333332,0.0
+Sakon Yamamoto YAM,21,0,0,0,18.523809523809526,0.0
+Sam Posey POS,2,0,0,0,19.0,0.0
+Sam Tingle TIN,5,0,0,2,13.0,0.0
+Satoru Nakajima NAK,71,0,0,26,14.690140845070422,0.0
+Satoru Nakajima,1,0,0,1,6.0,0.0
+Scott Speed SPE,28,0,0,4,15.071428571428571,0.0
+Sebastian Vettel,4,0,2,4,3.25,0.0
+Sebastien Bourdais BOU,27,0,0,7,14.185185185185185,0.0
+Sebastien Buemi BUE,53,0,0,15,14.39622641509434,0.0
+Sebastien Buemi,2,0,0,0,14.0,0.0
+Sergey Sirotkin SIR,21,0,0,0,15.666666666666666,0.0
+Sergio Mantovani MAN,7,0,0,6,8.714285714285714,0.0
+Sergio Perez PER,179,0,8,108,10.262569832402235,0.0
+Rupert Keegan KEE,28,0,0,4,17.214285714285715,0.0
+Ukyo Katayama KAT,91,0,0,17,15.978021978021978,0.0
+Ukyo Katayama,2,0,0,0,17.0,0.0
+Umberto Maglioli MAG,10,0,1,5,11.4,0.0
+Vern Schuppan SCH,9,0,0,1,14.777777777777779,0.0
+Vic Elford ELF,13,0,0,7,10.923076923076923,0.0
+Vic Wilson WIL,1,0,0,0,15.0,0.0
+Vitaly Petrov PET,54,0,1,12,14.055555555555555,0.0
+Vitaly Petrov,4,0,0,1,18.5,0.0
+Vitantonio Liuzzi LIU,78,0,0,13,15.833333333333334,0.0
+Vitantonio Liuzzi,2,0,0,1,15.0,0.0
+Walt Ader ADE,1,0,0,0,23.0,0.0
+Walt Brown BRO,2,0,0,0,23.5,0.0
+Tim Parnell PAR,2,0,0,1,18.5,0.0
+Walt Hansgen HAN,2,0,0,1,12.0,0.0
+Warwick Brown BRO,1,0,0,0,14.0,0.0
+Wayne Weiler WEI,1,0,0,0,24.0,0.0
+Will Stevens STE,18,0,0,0,16.5,0.0
+Willi Heeks HEE,2,0,0,0,18.5,0.0
+Willy Mairesse MAI,12,0,1,4,12.916666666666666,0.0
+Wilson Fittipaldi FIT,36,0,0,8,15.416666666666666,0.0
+Wolfgang Seidel SEI,10,0,0,1,18.4,0.0
+Wolfgang von Trips,1,0,0,1,4.0,0.0
+Xavier Perrot PER,1,0,0,1,10.0,0.0
+Yannick Dalmas DAL,23,0,0,7,14.304347826086957,0.0
+Yuji Ide IDE,4,0,0,0,17.25,0.0
+Yves Giraud Cabantous CAB,13,0,0,6,12.23076923076923,0.0
+Walt Faulkner FAU,5,0,0,2,14.8,0.0
+Tim Schenken SCH,34,0,1,9,15.617647058823529,0.0
+Timmy Mayer MAY,1,0,0,0,16.0,0.0
+Timo Glock GLO,89,0,3,22,14.853932584269662,0.0
+Timo Glock,4,0,0,0,20.75,0.0
+Tom Belso BEL,2,0,0,1,17.5,0.0
+Tom Bridger BRI,1,0,0,0,19.0,0.0
+Tom Pryce PRY,42,0,2,22,12.0,0.0
+Tomas Enge ENG,3,0,0,0,15.0,0.0
+Tommy Byrne BYR,2,0,0,0,14.0,0.0
+Toni Branca BRA,3,0,0,1,13.666666666666666,0.0
+Toni Ulmen ULM,2,0,0,1,13.5,0.0
+Tony Bettenhausen BET,11,0,1,5,13.181818181818182,0.0
+Trevor Taylor TAY,27,0,1,8,13.666666666666666,0.0
+Tony Crook CRO,2,0,0,0,24.0,0.0
+Tony Gaze GAZ,3,0,0,0,19.0,0.0
+Tony Maggs MAG,25,0,3,15,9.12,0.0
+Tony Marsh MAR,4,0,0,1,16.0,0.0
+Tony Rolt ROL,3,0,0,0,18.0,0.0
+Tony Settember SET,6,0,0,1,15.666666666666666,0.0
+Tony Shelly SHE,1,0,0,0,21.0,0.0
+Tony Brooks,1,0,0,1,6.0,0.0
+Toranosuke Takagi TAK,31,0,0,4,15.064516129032258,0.0
+Torsten Palm PAL,1,0,0,1,10.0,0.0
+Toshio Suzuki SUZ,2,0,0,0,13.0,0.0
+Toulo de Graffenried DEG,22,0,0,11,11.818181818181818,0.0
+Trevor Blokdyk BLO,1,0,0,0,12.0,0.0
+Tony Brise BRI,10,0,0,4,13.2,0.0
+Paul Russo RUS,8,0,1,6,11.625,0.0
+Paul di Resta DIR,56,0,0,24,11.732142857142858,0.0
+Paul Belmondo,1,0,0,0,13.0,0.0
+Paul di Resta,3,0,0,1,14.333333333333334,0.0
+Pedro Diniz DIN,97,0,0,27,14.505154639175258,0.0
+Pedro Lamy LAM,30,0,0,10,12.766666666666667,0.0
+Pedro de la Rosa DLR,101,0,1,20,15.029702970297029,0.0
+Pedro Rodriguez,2,0,0,1,11.5,0.0
+Pedro de la Rosa,3,0,0,0,20.0,0.0
+Pete Lovely LOV,7,0,0,3,12.714285714285714,0.0
+Peter Arundell ARU,11,0,2,7,9.0,0.0
+Peter Ashdown ASH,1,0,0,0,13.0,0.0
+Roger Williamson WIL,2,0,0,0,23.5,0.0
+Peter Hirt HIR,5,0,0,1,17.8,0.0
+Peter Ryan RYA,1,0,0,1,10.0,0.0
+Peter Walker WAL,4,0,0,1,16.25,0.0
+Peter Westbury WES,1,0,0,1,9.0,0.0
+Peter Whitehead WHI,10,0,1,5,14.3,0.0
+Peter de Klerk DEK,3,0,0,2,11.333333333333334,0.0
+Peter de Klerk,1,0,0,0,11.0,0.0
+Philip Fotheringham-Parker FOT,1,0,0,0,17.0,0.0
+Philippe Adams ADA,2,0,0,0,18.0,0.0
+Philippe Alliot ALL,104,0,0,27,15.509615384615385,0.0
+Philippe Etancelin ETA,12,0,0,7,10.583333333333334,0.0
+Philippe Streiff STR,52,0,1,21,13.25,0.0
+Philippe Alliot,1,0,0,0,12.0,0.0
+Peter Broeker BRO,1,0,0,1,7.0,0.0
+Onofre Marimon MAR,11,0,1,4,11.727272727272727,0.0
+Oscar Alfredo Galvez GAL,1,0,0,1,5.0,0.0
+Oscar Gonzalez GON,1,0,0,1,9.0,0.0
+Oscar Larrauri LAR,7,0,0,0,19.142857142857142,0.0
+Oswald Karch KAR,1,0,0,0,22.0,0.0
+Ottorino Volonterio VOL,3,0,0,1,10.666666666666666,0.0
+Pablo Birger BIR,2,0,0,0,19.0,0.0
+Paco Godia GOD,13,0,0,9,10.0,0.0
+Paddy Driver DRI,1,0,0,0,25.0,0.0
+Paolo Barilla BAR,6,0,0,1,13.333333333333334,0.0
+Paolo Barilla,1,0,0,0,15.0,0.0
+Pascal Fabre FAB,11,0,0,3,13.909090909090908,0.0
+Paul Pietsch PIE,3,0,0,0,22.0,0.0
+Pastor Maldonado,3,0,0,0,17.333333333333332,0.0
+Pat O'Connor O'C,5,0,0,2,19.4,0.0
+Patrick Friesacher FRI,11,0,0,1,16.0,0.0
+Patrick Gaillard GAI,2,0,0,0,12.5,0.0
+Patrick Neve NEV,10,0,0,4,13.4,0.0
+Patrick Depailler,1,0,0,1,8.0,0.0
+Johnny Servoz-Gavin SER,10,0,1,5,10.4,0.0
+Paul Belmondo BEL,7,0,0,1,14.142857142857142,0.0
+Paul Emery EME,1,0,0,0,27.0,0.0
+Paul England ENG,1,0,0,0,22.0,0.0
+Paul Frere FRE,11,0,1,5,11.818181818181818,0.0
+Paul Goldsmith GOL,3,0,1,2,12.666666666666666,0.0
+Paul Hawkins HAW,3,0,0,2,11.666666666666666,0.0
+Pascal Wehrlein WEH,39,0,0,3,16.128205128205128,0.0
+Riccardo Patrese,6,0,1,3,11.333333333333334,0.0
+Richard Attwood ATT,17,0,1,9,9.764705882352942,0.0
+Richard Robarts ROB,3,0,0,0,15.666666666666666,0.0
+Rikky von Opel VON,10,0,0,2,17.7,0.0
+Rio Haryanto HAR,12,0,0,0,18.666666666666668,0.0
+Rob Schroeder SCH,1,0,0,1,10.0,0.0
+Robert Doornbos DOO,11,0,0,0,14.818181818181818,0.0
+Robert La Caze LAC,1,0,0,0,14.0,0.0
+Robert Manzon MAN,28,0,2,11,14.107142857142858,0.0
+Robert O'Brien O'B,1,0,0,0,14.0,0.0
+Roberto Bussinello BUS,2,0,0,0,20.5,0.0
+Roberto Guerrero GUE,18,0,0,1,17.333333333333332,0.0
+Phil Hill,1,0,0,0,11.0,0.0
+Roberto Merhi MER,13,0,0,0,15.692307692307692,0.0
+Roberto Mieres MIE,17,0,0,8,11.117647058823529,0.0
+Roberto Moreno MOR,39,0,1,11,14.692307692307692,0.0
+Roberto Guerrero,1,0,0,0,15.0,0.0
+Roberto Moreno,1,0,0,0,13.0,0.0
+Robert Kubica,1,0,0,0,11.0,0.0
+Robin Montgomerie-Charrington MON,1,0,0,0,16.0,0.0
+Robin Widdows WID,1,0,0,0,13.0,0.0
+Rodney Nuckey NUC,1,0,0,0,12.0,0.0
+Roelof Wunderink WUN,3,0,0,0,15.333333333333334,0.0
+Roger Laurent LAU,2,0,0,1,9.0,0.0
+Roger Loyer LOY,1,0,0,0,15.0,0.0
+Roger Penske PEN,2,0,0,2,9.0,0.0
+Roberto Lippi LIP,1,0,0,0,29.0,0.0
+Piercarlo Ghinzani GHI,72,0,0,9,17.416666666666668,0.0
+Pierluigi Martini MAR,111,0,0,37,14.72072072072072,0.0
+Pierluigi Martini,3,0,0,2,9.0,0.0
+Piero Carini CAR,3,0,0,0,23.333333333333332,0.0
+Piero Drogo DRO,1,0,0,1,8.0,0.0
+Piero Scotti SCO,1,0,0,0,12.0,0.0
+Pierre Gasly GAS,54,0,1,23,11.38888888888889,0.0
+Pierre Henri Raphanel RAP,1,0,0,0,23.0,0.0
+Pierre Levegh LEV,6,0,0,3,11.0,0.0
+Piers Courage COU,27,0,2,16,10.481481481481481,0.0
+Prince Bira BIR,19,0,0,9,12.421052631578947,0.0
+Ralph Firman FIR,14,0,0,2,14.214285714285714,0.0
+Raul Boesel BOE,21,0,0,5,15.238095238095237,0.0
+Riccardo Paletti PAL,2,0,0,1,18.0,0.0
+Ray Crawford CRA,3,0,0,0,26.0,0.0
+Raymond Sommer SOM,5,0,0,1,11.8,0.0
+Red Amick AMI,2,0,0,0,21.0,0.0
+Reg Parnell PAR,6,0,1,4,10.0,0.0
+Reine Wisell WIS,22,0,1,8,13.818181818181818,0.0
+Renato Pirocchi PIR,1,0,0,0,12.0,0.0
+Rene Arnoux,3,0,0,2,13.0,0.0
+Renzo Zorzi ZOR,7,0,0,2,15.428571428571429,0.0
+Ricardo Rodriguez ROD,5,0,0,3,10.2,0.0
+Ricardo Rosset ROS,26,0,0,4,14.115384615384615,0.0
+Ricardo Zonta ZON,36,0,0,11,13.36111111111111,0.0
+Ricardo Zunino ZUN,10,0,0,3,15.8,0.0
+Ricardo Zunino,1,0,0,1,7.0,0.0
+Raul Boesel,1,0,0,0,18.0,0.0
+Christijan Albers ALB,45,0,0,2,15.555555555555555,0.0
+Chris Amon,1,0,0,0,11.0,0.0
+Chuck Arnold ARN,1,0,0,0,15.0,0.0
+Chuck Daigh DAI,3,0,0,1,14.0,0.0
+Chuck Stevenson STE,5,0,0,0,17.0,0.0
+Chuck Weyant WEY,4,0,0,0,20.0,0.0
+Clay Regazzoni,1,0,0,1,10.0,0.0
+Clemar Bucci BUC,5,0,0,0,18.2,0.0
+Clemente Biondetti BIO,1,0,0,0,18.0,0.0
+Cliff Allison ALL,15,0,0,10,10.333333333333334,0.0
+Cliff Griffith GRI,3,0,0,2,16.0,0.0
+Colin Davis DAV,2,0,0,0,15.5,0.0
+Jochen Rindt,2,0,0,0,13.0,0.0
+Consalvo Sanesi SAN,5,0,0,2,11.2,0.0
+Corrado Fabi FAB,11,0,0,2,15.090909090909092,0.0
+Corrado Fabi,1,0,0,0,22.0,0.0
+Cristiano da Matta DAM,27,0,0,11,11.814814814814815,0.0
+Cuth Harrison HAR,3,0,0,2,11.666666666666666,0.0
+Damien Magee MAG,1,0,0,0,14.0,0.0
+Damon Hill,1,0,0,0,15.0,0.0
+Daniel Ricciardo,3,0,0,0,16.0,0.0
+Daniil Kvyat KVY,102,0,3,38,12.441176470588236,0.0
+Danny Ongais ONG,4,0,0,1,18.0,0.0
+Danny Sullivan SUL,11,0,0,3,14.272727272727273,0.0
+Danny Sullivan,1,0,0,1,10.0,0.0
+Conny Andersson AND,1,0,0,0,24.0,0.0
+Carel Godin de Beaufort DEB,28,0,0,14,11.357142857142858,0.0
+Carl Forberg FOR,1,0,0,1,8.0,0.0
+Carl Scarborough SCA,2,0,0,0,18.0,0.0
+Carlos Menditeguy MEN,9,0,1,4,11.11111111111111,0.0
+Carlos Sainz SAI,109,0,1,57,11.394495412844037,0.0
+Carlos Reutemann,2,0,1,1,10.0,0.0
+Carroll Shelby SHE,9,0,0,5,11.666666666666666,0.0
+Cecil Green GRE,2,0,0,1,13.5,0.0
+Cesare Perdisa PER,8,0,1,7,7.0,0.0
+Charles Pic PIC,37,0,0,0,18.0,0.0
+Charles Pozzi POZ,1,0,0,1,7.0,0.0
+Charles de Tornaco DET,2,0,0,1,11.0,0.0
+Christian Fittipaldi,2,0,0,0,18.0,0.0
+Chet Miller MIL,2,0,0,0,28.0,0.0
+Chico Landi LAN,6,0,0,4,13.0,0.0
+Chico Serra SER,17,0,0,5,13.529411764705882,0.0
+Chico Serra,2,0,0,2,7.5,0.0
+Chris Amon AMO,94,0,11,49,10.77659574468085,0.0
+Chris Bristow BRI,4,0,0,1,12.75,0.0
+Chris Craft CRA,1,0,0,0,24.0,0.0
+Chris Irwin IRW,10,0,0,5,11.0,0.0
+Chris Lawrence LAW,2,0,0,0,13.0,0.0
+Christian Danner DAN,34,0,0,11,14.411764705882353,0.0
+Christian Fittipaldi FIT,37,0,0,18,11.64864864864865,0.0
+Christian Goethals GOE,1,0,0,0,18.0,0.0
+Christian Klien KLI,51,0,0,15,13.627450980392156,0.0
+Charles Pic,2,0,0,0,19.5,0.0
+Don Beauman BEA,1,0,0,0,11.0,0.0
+Don Branson BRA,2,0,0,1,14.0,0.0
+Don Edmunds EDM,1,0,0,0,19.0,0.0
+Don Freeland FRE,7,0,1,3,13.714285714285714,0.0
+Dorino Serafini SER,1,0,1,1,2.0,0.0
+Doug Serrurier SER,2,0,0,0,11.5,0.0
+Dries van der Lof VAN,1,0,0,0,13.0,0.0
+Duane Carter CAR,8,0,0,5,8.375,0.0
+Duke Dinsmore DIN,4,0,0,0,25.0,0.0
+Duke Nalon NAL,3,0,0,0,17.333333333333332,0.0
+Duncan Hamilton HAM,5,0,0,1,16.4,0.0
+Ed Elisian ELI,5,0,0,0,27.8,0.0
+Dan Gurney,1,0,0,0,12.0,0.0
+Eddie Johnson JOH,8,0,0,4,13.0,0.0
+Eddie Keizan KEI,3,0,0,0,13.333333333333334,0.0
+Eddie Russo RUS,4,0,0,0,26.5,0.0
+Eddie Sachs SAC,4,0,0,0,20.75,0.0
+Eddie Cheever,3,0,0,1,16.333333333333332,0.0
+Edgar Barth BAR,5,0,0,2,12.8,0.0
+Eitel Cantoni CAN,3,0,0,0,20.333333333333332,0.0
+Elie Bayol BAY,7,0,0,2,17.571428571428573,0.0
+Elio de Angelis,2,0,0,0,20.5,0.0
+Eliseo Salazar SAL,23,0,0,4,16.217391304347824,0.0
+Eliseo Salazar,1,0,0,0,13.0,0.0
+Elmer George GEO,1,0,0,0,33.0,0.0
+Emanuele Naspetti NAS,6,0,0,0,16.0,0.0
+Eddie Cheever CHE,131,0,8,44,13.923664122137405,0.0
+Dave Charlton CHA,10,0,0,1,19.9,0.0
+Dave Kennedy KEN,5,0,0,0,26.6,0.0
+Dave Morgan MOR,1,0,0,0,18.0,0.0
+Dave Walker WAL,11,0,0,2,17.545454545454547,0.0
+Dave Charlton,1,0,0,0,12.0,0.0
+Dave Kennedy,1,0,0,0,25.0,0.0
+David Brabham BRA,24,0,0,2,17.041666666666668,0.0
+David Hampshire HAM,2,0,0,1,13.0,0.0
+David Hobbs HOB,7,0,0,7,8.857142857142858,0.0
+David Murray MUR,4,0,0,1,17.75,0.0
+David Piper PIP,2,0,0,0,16.5,0.0
+David Prophet PRO,2,0,0,0,15.0,0.0
+Domenico Schiattarella SCH,7,0,0,1,18.714285714285715,0.0
+Dempsey Wilson WIL,2,0,0,0,24.0,0.0
+Dennis Poore POO,2,0,0,1,8.0,0.0
+Denny Hulme,2,0,1,1,7.0,0.0
+Derek Bell BEL,9,0,0,1,18.11111111111111,0.0
+Derek Daly DAL,47,0,0,19,12.97872340425532,0.0
+Derek Warwick WAR,140,0,4,57,13.392857142857142,0.0
+Derek Daly,1,0,0,1,4.0,0.0
+Derek Warwick,3,0,0,1,16.0,0.0
+Desmond Titterington TIT,1,0,0,0,16.0,0.0
+Dick Gibson GIB,2,0,0,0,22.5,0.0
+Dick Rathmann RAT,5,0,0,1,23.2,0.0
+Didier Pironi,2,0,0,1,16.5,0.0
+Dieter Quester QUE,1,0,0,1,9.0,0.0
+David Purley PUR,7,0,0,1,15.714285714285714,0.0
+Alexander Rossi RSI,5,0,0,0,15.6,0.0
+Alexander Wurz WUR,67,0,3,34,11.313432835820896,0.0
+Alfonso Thiele THI,1,0,0,0,12.0,0.0
+Alfonso de Portago DEP,6,0,1,3,12.333333333333334,0.0
+Allan McNish MCN,16,0,0,4,15.125,0.0
+Allen Berg BER,8,0,0,0,18.0,0.0
+Andre Guelfi GUE,1,0,0,0,15.0,0.0
+Andre Lotterer LOT,1,0,0,0,22.0,0.0
+Andre Milhoux MIL,1,0,0,1,8.0,0.0
+Andre Pilette PIL,9,0,0,5,11.11111111111111,0.0
+Andre Simon SIM,11,0,0,3,13.818181818181818,0.0
+Andrea Chiesa CHI,2,0,0,0,18.5,0.0
+Cal Niday NID,2,0,0,0,15.0,0.0
+Andrea de Adamich DEA,30,0,0,6,15.2,0.0
+Andrea de Cesaris DEC,196,0,5,54,15.13265306122449,0.0
+Andrea de Cesaris,4,0,0,0,21.0,0.0
+Andy Linden LIN,7,0,0,3,16.857142857142858,0.0
+Anthony Davidson DAV,24,0,0,0,16.25,0.0
+Anthony Joseph Foyt FOY,3,0,0,1,17.0,0.0
+Antonio Giovinazzi GIO,30,0,0,5,14.3,0.0
+Antonio Pizzonia PIZ,20,0,0,8,12.9,0.0
+Archie Scott-Brown SCO,1,0,0,0,26.0,0.0
+Art Bisch BIS,1,0,0,0,33.0,0.0
+Art Cross CRO,4,0,1,2,9.75,0.0
+Arthur Legat LEG,2,0,0,0,17.0,0.0
+Andrea Montermini MON,20,0,0,3,17.9,0.0
+Adolf Brudes BRU,1,0,0,0,17.0,0.0
+Adolfo Schewelm Cruz CRU,1,0,0,0,17.0,0.0
+Adrian Campos CAM,17,0,0,1,19.294117647058822,0.0
+Adrian Sutil SUT,126,0,0,28,14.65079365079365,0.0
+Adrian Sutil,2,0,0,1,9.0,0.0
+Aguri Suzuki SUZ,59,0,1,16,15.661016949152541,0.0
+Aguri Suzuki,3,0,0,1,16.0,0.0
+Al Herman HER,5,0,0,1,20.8,0.0
+Al Keller KEL,5,0,0,0,19.8,0.0
+Al Pease PEA,2,0,0,0,14.5,0.0
+Alain Prost,4,0,0,2,14.25,0.0
+Alan Brown BRO,8,0,0,3,13.5,0.0
+Alexander Albon ALB,28,0,0,19,8.75,0.0
+Alan Stacey STA,6,0,0,3,12.166666666666666,0.0
+Albert Scherrer SCH,1,0,0,0,11.0,0.0
+Alberto Uria URI,2,0,0,1,13.5,0.0
+Aldo Gordini GOR,1,0,0,0,16.0,0.0
+Alessandro Pesenti-Rossi PES,3,0,0,0,14.333333333333334,0.0
+Alessandro Zanardi ZAN,40,0,0,11,15.125,0.0
+Alessandro de Tomaso DET,2,0,0,0,11.5,0.0
+Alessandro Nannini,1,0,0,0,11.0,0.0
+Alessandro Zanardi,1,0,0,0,21.0,0.0
+Alex Caffi CAF,54,0,0,18,14.425925925925926,0.0
+Alex Ribeiro RIB,10,0,0,2,12.7,0.0
+Alex Soler-Roig SOL,6,0,0,0,21.0,0.0
+Alex Yoong YOO,14,0,0,2,15.0,0.0
+Alan Rees REE,3,0,0,2,12.0,0.0
+Bob Evans EVA,10,0,0,2,17.2,0.0
+Bob Gerard GER,8,0,0,4,11.375,0.0
+Bob Said SAI,1,0,0,0,18.0,0.0
+Bob Scott SCO,3,0,0,0,25.0,0.0
+Bob Veith VEI,5,0,0,3,12.4,0.0
+Bobby Ball BAL,2,0,0,1,19.0,0.0
+Bobby Grim GRI,2,0,0,0,21.0,0.0
+Bobby Rahal RAH,2,0,0,0,15.0,0.0
+Bobby Unser UNS,1,0,0,0,17.0,0.0
+Boy Hayje HAY,3,0,0,0,16.0,0.0
+Brausch Niemann NIE,1,0,0,0,14.0,0.0
+Brendon Hartley HAR,25,0,0,2,15.16,0.0
+Arthur Owen OWE,1,0,0,0,16.0,0.0
+Brian Hart HAR,1,0,0,0,14.0,0.0
+Brian Henton HEN,19,0,0,9,12.526315789473685,0.0
+Brian Naylor NAY,7,0,0,0,17.857142857142858,0.0
+Brian Redman RED,12,0,1,6,13.583333333333334,0.0
+Brian Shawe-Taylor SHA,2,0,0,1,9.5,0.0
+Bruce Halford HAL,8,0,0,3,13.375,0.0
+Bruce Johnstone JOH,1,0,0,1,9.0,0.0
+Bruce McLaren,2,0,2,2,2.0,0.0
+Bruno Giacomelli GIA,65,0,1,17,14.815384615384616,0.0
+Bruno Senna SEN,42,0,0,9,15.952380952380953,0.0
+Bruno Giacomelli,3,0,0,1,13.666666666666666,0.0
+Bruno Senna,4,0,0,2,13.0,0.0
+Bud Tingelstad TIN,1,0,0,1,9.0,0.0
+Brett Lunger LUN,34,0,0,9,13.764705882352942,0.0
+Arturo Merzario MER,57,0,0,10,17.140350877192983,0.0
+Ayrton Senna,2,0,1,2,3.5,0.0
+Basil van Rooyen VAN,2,0,0,0,17.0,0.0
+Bayliss Levrett LEV,1,0,0,0,29.0,0.0
+Ben Pon PON,1,0,0,0,20.0,0.0
+Beppe Gabbiani GAB,3,0,0,0,17.333333333333332,0.0
+Beppe Gabbiani,1,0,0,0,18.0,0.0
+Bernard Collomb COL,4,0,0,1,19.25,0.0
+Bernd Schneider SCH,8,0,0,0,18.75,0.0
+Bernd Schneider,1,0,0,0,12.0,0.0
+Bertil Roos ROO,1,0,0,0,25.0,0.0
+Bertrand Gachot GAC,43,0,0,8,15.86046511627907,0.0
+Bob Drake DRA,1,0,0,0,13.0,0.0
+Bill Aston AST,1,0,0,0,22.0,0.0
+Bill Brack BRA,3,0,0,1,16.0,0.0
+Bill Cantrell CAN,1,0,0,0,30.0,0.0
+Bill Cheesbourg CHE,3,0,0,1,19.0,0.0
+Bill Holland HOL,2,0,1,1,11.5,0.0
+Bill Homeier HOM,2,0,0,1,10.0,0.0
+Bill Mackey MAC,1,0,0,0,20.0,0.0
+Bill Schindler SCH,3,0,0,0,18.666666666666668,0.0
+Bill Whitehouse WHI,1,0,0,0,16.0,0.0
+Billy Garrett GAR,2,0,0,0,18.5,0.0
+Bob Anderson AND,25,0,1,11,11.16,0.0
+Bob Bondurant BON,9,0,0,5,12.11111111111111,0.0
+Bob Christie CHR,5,0,0,1,15.0,0.0
+Bertrand Gachot,1,0,0,0,18.0,0.0
+Jack McGrath MCG,6,0,1,3,11.333333333333334,0.0
+Jack Turner TUR,4,0,0,0,22.25,0.0
+Jackie Holmes HOL,2,0,0,0,27.0,0.0
+Jackie Lewis LEW,9,0,0,5,13.88888888888889,0.0
+Jackie Oliver OLI,48,0,2,15,13.645833333333334,0.0
+Jackie Pretorius PRE,3,0,0,1,16.666666666666668,0.0
+Jackie Oliver,1,0,0,0,16.0,0.0
+Jackie Stewart,1,0,1,1,3.0,0.0
+Jacky Ickx,2,0,0,0,15.0,0.0
+Jack Brabham,1,0,0,1,7.0,0.0
+Jacques Pollet POL,5,0,0,2,13.6,0.0
+Jacques Swaters SWA,7,0,0,3,13.571428571428571,0.0
+Emanuele Pirro PIR,33,0,0,12,15.181818181818182,0.0
+Jaime Alguersuari ALG,44,0,0,10,14.0,0.0
+Jaime Alguersuari,2,0,0,0,12.0,0.0
+Jan Flinterman FLI,2,0,0,1,14.0,0.0
+Jan Lammers LAM,28,0,0,4,17.214285714285715,0.0
+Jan Magnussen MAG,24,0,0,6,15.083333333333334,0.0
+Jan Lammers,2,0,0,0,21.0,0.0
+Jarno Trulli,2,0,0,0,17.5,0.0
+Jay Chamberlain CHA,1,0,0,0,15.0,0.0
+Jean Behra BEH,55,0,7,24,11.0,0.0
+Jean Louis Schlesser SCH,1,0,0,0,11.0,0.0
+Jean Lucas LUC,1,0,0,0,19.0,0.0
+Jean-Christophe Boullion BOU,11,0,0,5,12.727272727272727,0.0
+Jacques Laffite,3,0,1,1,10.0,0.0
+Helmut Niedermayr NIE,1,0,0,1,9.0,0.0
+Helmuth Koinigg KOI,2,0,0,1,16.5,0.0
+Henri Louveau LOU,2,0,0,0,17.5,0.0
+Henri Pescarolo PES,55,0,1,20,13.527272727272727,0.0
+Henri Pescarolo,2,0,0,2,8.0,0.0
+Henry Banks BAN,3,0,0,1,17.333333333333332,0.0
+Henry Taylor TAY,8,0,0,4,12.0,0.0
+Herbert MacKay-Fraser MAC,1,0,0,0,12.0,0.0
+Hermann Lang LAN,2,0,0,1,9.5,0.0
+Hermano da Silva Ramos DAS,7,0,0,3,14.571428571428571,0.0
+Hideki Noda NOD,3,0,0,0,24.333333333333332,0.0
+Horace Gould GOU,14,0,0,2,14.714285714285714,0.0
+Jack Fairman FAI,12,0,0,3,16.333333333333332,0.0
+Hubert Hahne HAH,3,0,0,2,12.0,0.0
+Huub Rothengatter ROT,26,0,0,5,16.192307692307693,0.0
+Ian Ashley ASH,4,0,0,0,16.5,0.0
+Ian Burgess BUR,16,0,0,3,13.8125,0.0
+Ian Raby RAB,3,0,0,0,15.0,0.0
+Ian Scheckter SCH,18,0,0,3,17.555555555555557,0.0
+Ian Stewart STE,1,0,0,0,22.0,0.0
+Ignazio Giunti GIU,4,0,0,2,10.5,0.0
+Ingo Hoffman HOF,3,0,0,1,11.666666666666666,0.0
+Innes Ireland,1,0,0,1,7.0,0.0
+Ivan Capelli CAP,89,0,2,22,15.932584269662922,0.0
+Ivan Capelli,2,0,0,0,23.5,0.0
+Ivor Bueb BUE,5,0,0,0,13.0,0.0
+Howden Ganley GAN,35,0,0,17,12.2,0.0
+Jo Vonlanthen VON,1,0,0,0,22.0,0.0
+Jochen Mass,1,0,0,0,17.0,0.0
+Zsolt Baumgartner BAU,20,0,0,3,15.3,0.0
+Jody Scheckter,1,0,0,1,9.0,0.0
+Joe Fry FRY,1,0,0,1,10.0,0.0
+Joe James JAM,2,0,0,0,23.5,0.0
+Joe Kelly KEL,2,0,0,0,14.5,0.0
+John Barber BAR,1,0,0,1,9.0,0.0
+John Campbell-Jones CAM,2,0,0,0,14.5,0.0
+John Cannon CAN,1,0,0,0,14.0,0.0
+John Cordts COR,1,0,0,0,17.0,0.0
+John Fitch FIT,2,0,0,1,19.0,0.0
+Jean-Denis Deletraz DEL,3,0,0,0,16.666666666666668,0.0
+John Love LOV,8,0,1,4,12.5,0.0
+John Miles MIL,11,0,0,3,13.545454545454545,0.0
+John Nicholson NIC,1,0,0,0,17.0,0.0
+John Rhodes RHO,1,0,0,0,16.0,0.0
+John Riseley-Prichard RIS,1,0,0,0,24.0,0.0
+John Taylor TAY,5,0,0,3,12.6,0.0
+Johnnie Tolan TOL,3,0,0,0,18.0,0.0
+Johnny Boyd BOY,6,0,1,3,17.333333333333332,0.0
+Johnny Cecotto CEC,16,0,0,3,15.375,0.0
+Johnny Claes CLA,23,0,1,7,12.956521739130435,0.0
+Johnny Dumfries DUM,15,0,0,7,13.866666666666667,0.0
+Johnny Mantz MAN,1,0,0,0,26.0,0.0
+Johnny McDowell MCD,3,0,0,0,24.333333333333332,0.0
+John James JAM,1,0,0,0,20.0,0.0
+Jean-Eric Vergne VER,56,0,0,14,14.035714285714286,0.0
+Jean-Eric Vergne,2,0,0,0,15.0,0.0
+Jean-Marc Gounon GOU,9,0,0,2,15.444444444444445,0.0
+Jean-Pierre Jarier JAR,130,0,3,43,13.953846153846154,0.0
+Jean-Pierre Beltoise,2,0,0,2,7.0,0.0
+Jean-Pierre Jabouille,1,0,0,0,21.0,0.0
+Jean-Pierre Jarier,3,0,0,0,18.333333333333332,0.0
+Jean Alesi,3,0,1,2,8.333333333333334,0.0
+Jenson Button,4,0,1,4,6.5,0.0
+Jerome d'Ambrosio DAM,19,0,0,0,18.36842105263158,0.0
+Jerome d'Ambrosio,1,0,0,0,19.0,0.0
+Jerry Hoyt HOY,4,0,0,1,24.75,0.0
+Jo Schlesser SCH,3,0,0,1,17.0,0.0
+Jesus Iglesias IGL,1,0,0,0,16.0,0.0
+Jim Crawford CRA,2,0,0,0,17.0,0.0
+Jim Hall HAL,11,0,0,7,9.454545454545455,0.0
+Jim Hurtubise HUR,1,0,0,0,18.0,0.0
+Jim McWithey MCW,2,0,0,0,22.5,0.0
+Jim Rigsby RIG,1,0,0,0,12.0,0.0
+Jimmy Davies DAV,5,0,0,1,14.2,0.0
+Jimmy Daywalt DAY,5,0,0,1,17.2,0.0
+Jimmy Jackson JAC,2,0,0,0,26.5,0.0
+Jimmy Reece REE,6,0,0,3,16.833333333333332,0.0
+Jimmy Stewart STE,1,0,0,1,9.0,0.0
+Jim Clark,1,0,1,1,3.0,0.0
+Jo Gartner GAR,7,0,0,1,14.142857142857142,0.0
+Jerry Unser UNS,1,0,0,0,31.0,0.0
+Franck Lagorce LAG,2,0,0,0,15.0,0.0
+Franck Montagny MON,7,0,0,0,18.714285714285715,0.0
+Franco Comotti COM,2,0,0,0,16.5,0.0
+Franco Forini FOR,2,0,0,0,19.5,0.0
+Franco Rol ROL,5,0,0,1,15.4,0.0
+Francois Hesnault HES,17,0,0,4,16.941176470588236,0.0
+Francois Mazet MAZ,1,0,0,0,13.0,0.0
+Francois Migault MIG,13,0,0,0,16.76923076923077,0.0
+Francois Picard PIC,1,0,0,0,18.0,0.0
+Frank Armi ARM,1,0,0,0,29.0,0.0
+Frank Gardner GAR,8,0,0,1,15.25,0.0
+Fred Agabashian AGA,8,0,0,2,19.0,0.0
+Helmut Marko MAR,9,0,0,3,13.666666666666666,0.0
+Fred Wacker WAC,3,0,0,1,10.666666666666666,0.0
+Fritz Riess RIE,1,0,0,1,7.0,0.0
+Fritz d'Orey D'O,3,0,0,0,13.0,0.0
+Gabriele Tarquini TAR,34,0,0,5,15.647058823529411,0.0
+Gabriele Tarquini,1,0,0,0,22.0,0.0
+Gaetano Starrabba STA,1,0,0,0,15.0,0.0
+Gaston Mazzacane MAZ,20,0,0,3,14.2,0.0
+Gene Force FOR,2,0,0,0,20.0,0.0
+Gene Hartley HAR,7,0,0,1,15.0,0.0
+Geoff Crossley CRO,2,0,0,1,13.0,0.0
+Geoff Lees LEE,9,0,0,1,19.333333333333332,0.0
+George Abecassis ABE,2,0,0,0,17.5,0.0
+Fred Gamble GAM,1,0,0,1,10.0,0.0
+Emerson Fittipaldi,1,0,0,0,11.0,0.0
+Emilio de Villota DEV,2,0,0,0,15.0,0.0
+Enrique Bernoldi BER,27,0,0,4,15.703703703703704,0.0
+Eppie Wietzes WIE,2,0,0,0,19.0,0.0
+Eric Bernard BER,43,0,1,15,14.790697674418604,0.0
+Eric Brandon BRA,5,0,0,2,16.4,0.0
+Eric Thompson THO,1,0,0,1,5.0,0.0
+Eric van de Poele VAN,3,0,0,2,13.666666666666666,0.0
+Eric Bernard,1,0,0,1,8.0,0.0
+Erik Comas COM,55,0,0,24,13.290909090909091,0.0
+Erik Comas,1,0,0,1,9.0,0.0
+Ernie McCoy MCC,2,0,0,0,18.0,0.0
+Fernando Alonso,3,0,1,3,3.6666666666666665,0.0
+Ernst Klodwig KLO,2,0,0,0,14.5,0.0
+Ernst Loof LOO,1,0,0,0,34.0,0.0
+Erwin Bauer BAU,1,0,0,0,31.0,0.0
+Esteban Gutierrez GUT,59,0,0,1,15.084745762711865,0.0
+Esteban Ocon OCO,57,0,0,33,11.070175438596491,0.0
+Esteban Tuero TUE,16,0,0,1,15.375,0.0
+Eugene Chaboud CHA,3,0,0,2,9.0,0.0
+Eugene Martin MAR,2,0,0,0,17.5,0.0
+Eugenio Castellotti CAS,17,0,3,6,10.882352941176471,0.0
+Fabrizio Barbazza BAR,7,0,0,2,15.142857142857142,0.0
+Felice Bonetto BON,16,0,2,10,9.1875,0.0
+Felipe Nasr NAS,40,0,0,7,14.15,0.0
+Felipe Massa,4,0,1,4,5.0,0.0
+Ernie Pieterse PIE,2,0,0,1,14.5,0.0
+Graham McRae MCR,1,0,0,0,19.0,0.0
+Graham Whitehead WHI,1,0,0,0,12.0,0.0
+Graham Hill,3,0,0,2,8.0,0.0
+Gregor Foitek FOI,6,0,0,1,15.666666666666666,0.0
+Gregor Foitek,1,0,0,0,19.0,0.0
+Gus Hutchison HUT,1,0,0,0,21.0,0.0
+Guy Edwards EDW,11,0,0,2,15.545454545454545,0.0
+Guy Ligier LIG,12,0,0,9,9.416666666666666,0.0
+Guy Mairesse MAI,3,0,0,0,12.666666666666666,0.0
+Guy Tunmer TUN,1,0,0,0,11.0,0.0
+GÃ¼nther Bechem BEC,2,0,0,0,23.5,0.0
+Hans Binder BIN,13,0,0,3,13.153846153846153,0.0
+George Amick AMI,1,0,1,1,2.0,0.0
+Hans Heyer HEY,1,0,0,0,21.0,0.0
+Hans Klenk KLE,1,0,0,0,11.0,0.0
+Hans Von Stuck STU,3,0,0,0,24.0,0.0
+Hans-Joachim Stuck STU,78,0,2,19,15.743589743589743,0.0
+Hap Sharp SHA,6,0,0,1,12.0,0.0
+Harald Ertl ERT,20,0,0,6,15.5,0.0
+Harry Blanchard BLA,1,0,0,1,7.0,0.0
+Harry Schell SCH,59,0,2,26,11.64406779661017,0.0
+Hector Rebaque REB,40,0,0,12,14.425,0.0
+Hector Rebaque,1,0,0,0,12.0,0.0
+Heikki Kovalainen,4,0,0,0,16.25,0.0
+Heini Walter WAL,1,0,0,0,14.0,0.0
+Heinz Schiller SCH,1,0,0,0,24.0,0.0
+Hans Herrmann HER,18,0,1,8,11.444444444444445,0.0
+George Connor CON,3,0,0,2,16.0,0.0
+George Constantine CON,1,0,0,0,15.0,0.0
+George Eaton EAT,10,0,0,2,14.4,0.0
+George Follmer FOL,11,0,1,4,14.454545454545455,0.0
+George Fonder FON,2,0,0,0,22.5,0.0
+George Russell RUS,28,0,0,0,16.035714285714285,0.0
+Georges Berger BER,2,0,0,0,19.0,0.0
+Georges Grignard GRI,1,0,0,0,16.0,0.0
+Gerard Larrousse LAR,1,0,0,0,23.0,0.0
+Gerhard Mitter MIT,5,0,0,2,13.6,0.0
+Gerhard Berger,3,0,0,1,13.666666666666666,0.0
+Gerino Gerini GER,6,0,0,2,12.0,0.0
+Giulio Cabianca CAB,3,0,0,2,9.666666666666666,0.0
+Giacomo Russo RUS,2,0,0,1,13.5,0.0
+Gianmaria Bruni BRU,18,0,0,0,16.61111111111111,0.0
+Gianni Morbidelli MOR,66,0,1,18,14.984848484848484,0.0
+Gianni Morbidelli,1,0,0,0,21.0,0.0
+Giedo van der Garde VDG,19,0,0,0,18.05263157894737,0.0
+Gijs van Lennep VAN,8,0,0,5,11.125,0.0
+Gilles Villeneuve,2,0,0,0,16.0,0.0
+Gino Bianco BIA,4,0,0,0,21.0,0.0
+Gino Munaron MUN,3,0,0,0,15.0,0.0
+Giorgio Bassi BAS,1,0,0,0,23.0,0.0
+Giorgio Pantano PAN,14,0,0,0,16.071428571428573,0.0
+Giorgio Scarlatti SCA,11,0,0,5,12.090909090909092,0.0
+Giovanni Lavaggi LAV,7,0,0,1,16.428571428571427,0.0
+Gerry Ashmore ASH,3,0,0,0,26.0,0.0
